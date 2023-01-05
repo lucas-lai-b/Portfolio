@@ -1,0 +1,17 @@
+﻿Exemplos de dashboards desenvolvidos em Power BI por Lucas Lai Barbosa:
+
+- Painel sobre operação de vendas de programas de milhagens:
+https://bit.ly/3K8h6Gm
+
+- Painel de acompanhamento de empresa de call center:
+https://bit.ly/3tryEGN
+
+---
+
+Examples of dashboards created in Power BI by Lucas Lai Barbosa:
+
+- Dashboard about a frequent-flyer program sales operation:
+https://bit.ly/3K8h6Gm
+
+- Dashboard for monitoring a call center company:
+https://bit.ly/3tryEGN
